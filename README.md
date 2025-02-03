@@ -12,6 +12,9 @@ This repository contains shapefiles and maps created for practical purposes usin
 - [***India at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Indian%20State%20Boundary)
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
+- [***Maharashtra at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Maharashtra%20State%20Boundary)
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Maharashtra%20State%20Boundary/maharashtra.png" width="300">
+
 <br>
 
 ### ***Let's connect:*** 
