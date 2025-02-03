@@ -6,10 +6,10 @@ This repository contains shapefiles and QGIS maps I have done for practical purp
 <br>
 
 ## :zap: Shapefiles
-- ***Indian Country Boundary***
+- ***Indian boundary at national level***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/India%20Country%20Boundary/indian.png" width="300">
 
-- ***Indian State Boundary***
+- ***Indian boundaries at state level***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
 <br>
