@@ -7,13 +7,11 @@ This repository contains shapefiles and QGIS maps I have done for practical purp
 
 ## :zap: Shapefiles
 
-> India country boundary:
+> Indian Country Boundary:
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/India%20Country%20Boundary/indian.png" width="300">
 
-<img align="left" src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/India%20Country%20Boundary/Indian.png" width="300">
-
-> India state boundary:
-
-<img align="left" src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/India%20Country%20Boundary/India.png" width="300">
+> Indian State Boundary:
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
 <br>
 
