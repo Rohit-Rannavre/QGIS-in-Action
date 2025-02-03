@@ -9,7 +9,7 @@ This repository contains shapefiles and QGIS maps I have done for practical purp
 - [***Indian boundary at national level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/India%20Country%20Boundary)
  <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/India%20Country%20Boundary/indian.png" width="300">
 
-- [***Indian boundaries at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/India%20State%20Boundary)
+- [***Indian boundaries at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Indian%20State%20Boundary)
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
 <br>
