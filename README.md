@@ -12,8 +12,6 @@ This repository contains shapefiles and maps created for practical purposes usin
 - [***India at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Indian%20State%20Boundary)
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
-<br>
-
 ## :zap: Maps
 - ***Species Distribution Map***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Leopard%20Gecko.png" width="600" height="400">
