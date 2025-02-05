@@ -14,6 +14,12 @@ This repository contains shapefiles and maps created for practical purposes usin
 
 <br>
 
+## :zap: Maps
+- ***Species Distribution Map***
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Leopard%20Gecko.png" width="600" height="400">
+
+<br>
+
 ### ***Let's connect:*** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
