@@ -16,6 +16,9 @@ This repository contains shapefiles and maps created for practical purposes usin
 - ***Species Distribution Map***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Leopard%20Gecko.jpg" width="600" height="400">
 
+- ***Leopard Sightings Map***
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/2%20Leopard%20at%20Gautala.png" width="600" height="400">
+
 <br>
 
 ### ***Let's connect:*** 
