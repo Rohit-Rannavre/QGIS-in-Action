@@ -13,10 +13,10 @@ This repository contains shapefiles and maps created for practical purposes usin
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
 ## :zap: Maps
-- ***Species Distribution Map***
+- ***Species Distribution***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Leopard%20Gecko.jpg" width="600" height="400">
 
-- ***Leopard Sightings Map***
+- ***Leopard Sightings***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/2%20Leopard%20at%20Gautala.png" width="600" height="400">
 
 <br>
