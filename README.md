@@ -15,8 +15,8 @@ This repository contains shapefiles and maps created for practical purposes usin
 - [***Maharashtra at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Maharashtra%20State%20Boundary)
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Maharashtra%20State%20Boundary/Maharashtra%20at%20State%20Level.png" width="300">
 
-- [***Maharashtra at District level***]()
-<img src="" width="300">
+- [***Maharashtra at District level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Maharashtra%20District%20Boundary)
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Maharashtra%20District%20Boundary/Maharashtra%20at%20District%20Level.png" width="300">
 
 ## :zap: Maps
 - ***Fieldwork***
