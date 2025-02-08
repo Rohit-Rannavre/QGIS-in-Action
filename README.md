@@ -13,7 +13,7 @@ This repository contains shapefiles and maps created for practical purposes usin
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Indian%20State%20Boundary/India.png" width="300">
 
 - [***Maharashtra at state level***](https://github.com/Rohit-Rannavre/QGIS-in-Action/tree/main/Shapefiles/Maharashtra%20State%20Boundary)
-<img src="" width="300">
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Maharashtra%20State%20Boundary/Maharashtra%20at%20State%20Level.png" width="300">
 
 ## :zap: Maps
 - ***Fieldwork***
