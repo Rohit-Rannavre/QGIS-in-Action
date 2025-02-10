@@ -19,6 +19,9 @@ This repository contains shapefiles and maps created for practical purposes usin
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Shapefiles/Maharashtra%20District%20Boundary/Maharashtra%20at%20District%20Level.png" width="300">
 
 ## :zap: Maps
+- ***India on Globe***
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/4%20India%20on%20globe.png" width="550" height="400">
+
 - ***Fieldwork***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Fieldwork%20Gautala.png" width="600" height="400">
 
