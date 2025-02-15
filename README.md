@@ -37,6 +37,9 @@ This repository contains shapefiles and maps created for practical purposes usin
 - ***Millipede Survey***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/6%20Millipede%20Survey.png" width="600" height="400">
 
+- ***Millipede Survey***
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/7%20Millipede%20Survey.png" width="600" height="400">
+
 <br>
 
 ### ***Let's connect:*** 
