@@ -25,11 +25,14 @@ This repository contains shapefiles and maps created for practical purposes usin
 - ***Fieldwork***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Fieldwork%20Gautala.png" width="600" height="400">
 
-- ***Leopard Sightings***
+- ***Leopard Sightings at Gautala Wildlife Sanctuary***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/2%20Leopard%20GautalaWL.png" width="600" height="400">
 
-- ***Gautala Wildlife Sanctuary***
+- ***Leopard Sighting at Gautala Wildlife Sanctuary***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/5%20Leopard%20at%20Gautala.png" width="600" height="400">
+
+- ***Fieldwork at Gautala Wildlife Sanctuary***
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/8%20Field%20Survey.png" width="600" height="400">
 
 - ***Elevation***
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/3%20Elevation%20of%20Sambhajinagar%20District.png" width="600" height="400">
