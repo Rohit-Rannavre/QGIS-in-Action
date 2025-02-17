@@ -33,8 +33,6 @@ This repository contains shapefiles and maps created for practical purposes usin
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/6%20Millipede%20Survey.png" width="600" height="400">
  
-<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/7%20Millipede%20Survey.png" width="600" height="400">
-
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/9%20Maharashtra%20Tarrain.png" width="600" height="400">
 
 <br>
