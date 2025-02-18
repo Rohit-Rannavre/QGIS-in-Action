@@ -25,6 +25,8 @@ This repository contains shapefiles and maps created for practical purposes usin
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/7%20Maharashtra%20Tarrain.png" width="600" height="400">
 
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/12%20Maharashtra%20Topography.png" width="600" height="400">
+
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/11%20Study%20Sites.png" width="600" height="400">
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/3%20Elevation%20of%20Sambhajinagar%20District.png" width="600" height="400">
