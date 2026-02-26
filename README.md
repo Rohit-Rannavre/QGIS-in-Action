@@ -37,6 +37,8 @@ This repository contains shapefiles and maps created for practical purposes usin
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/1%20Fieldwork%20Gautala.png" width="600" height="400">
 
+<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/15%20Antur.jpeg" width="600" height="400">
+
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/2%20Leopard%20GautalaWL.png" width="600" height="400">
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/8%20Field%20Survey.png" width="600" height="400">
@@ -44,8 +46,6 @@ This repository contains shapefiles and maps created for practical purposes usin
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/5%20Leopard%20at%20Gautala.png" width="600" height="400">
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/10%20Gautala%20Terrain.png" width="600" height="400">
-
-<img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/15%20Antur.jpeg" width="600" height="400">
 
 <br>
 
