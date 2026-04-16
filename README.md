@@ -1,5 +1,4 @@
 # :star: QGIS in Action [2025]
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" width="75" height="95">
 
 This repository contains some maps created for practical purposes using [QGIS](https://qgis.org/).
 
@@ -32,9 +31,3 @@ This repository contains some maps created for practical purposes using [QGIS](h
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/5%20Leopard%20at%20Gautala.png" width="600" height="400">
 
 <img src="https://github.com/Rohit-Rannavre/QGIS-in-Action/blob/main/Maps/10%20Gautala%20Terrain.png" width="600" height="400">
-
-<br>
-
-### ***Let's connect:*** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
